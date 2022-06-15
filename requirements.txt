@@ -1,0 +1,6 @@
+flask
+numpy
+pandas
+pymongo
+gunicorn
+pymongo[srv]
