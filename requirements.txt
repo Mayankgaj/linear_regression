@@ -4,3 +4,4 @@ pandas
 pymongo
 gunicorn
 pymongo[srv]
+scikit-learn
