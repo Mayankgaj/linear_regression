@@ -13,7 +13,7 @@
    <head>
       <style>
          body {
-            background-image: url("https://s1.1zoom.me/b5055/63/USA_Boston_Houses_Marinas_Riverboat_545457_1920x1080.jpg");
+            background-image: url("https://github.com/Mayankgaj/linear_regression/raw/master/templates/house_!.png");
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: cover;
@@ -44,7 +44,7 @@
         </h2>>
         <div class="container">
             <h3>Boston House Prediction </h3>
-            <form action="{{ url_for('predict')}}" id="booking-form" class="booking-form" method="POST">
+            <form action="{{ url_for('predict')}}" onsubmit="return validateForm()" id="booking-form" class="booking-form" method="POST">
                 <div class="form-group">
                     <div class="form-CRIMe">
                         <label for="CRIM">CRIM</label>
