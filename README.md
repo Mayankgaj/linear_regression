@@ -31,7 +31,7 @@
 [![Screenshot (10)](https://github.com/Mayankgaj/linear_regression/releases/download/screenshot/Screenshot.png)
 ](https://boston-house-lr.herokuapp.com/predict)
 
-[LINK TO HEROKU APP](https://boston-house-lr.herokuapp.com/predict)
+[LINK TO HEROKU APP](https://boston-house-lr.herokuapp.com/)
 
 <!--contact-->
 [reach_linkedin]: www.linkedin.com/in/mayank-gajbhiye-06b959204
